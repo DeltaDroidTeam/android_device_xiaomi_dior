@@ -24,7 +24,7 @@ LOCAL_CFLAGS += -DCAMERA_ZSL_ION_FALLBACK_HEAP_ID=ION_CAMERA_HEAP_ID
 LOCAL_HAL_FILES := \
      QCameraHAL.cpp QCameraHWI_Parm.cpp\
      QCameraHWI.cpp QCameraHWI_Preview.cpp \
-     QCameraHWI_Record_7x27A.cpp QCameraHWI_Still.cpp \
+     QCameraHWI_Record_8226.cpp QCameraHWI_Still.cpp \
      QCameraHWI_Mem.cpp QCameraHWI_Display.cpp \
      QCameraStream.cpp QualcommCamera2.cpp QCameraHWI_Rdi.cpp QCameraParameters.cpp
 
